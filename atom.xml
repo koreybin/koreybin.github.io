@@ -6,10 +6,25 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-06T10:49:55.841Z</updated>
+  <updated>2020-04-08T08:44:58.583Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mvvm</title>
+    <link href="http://yoursite.com/2020/04/08/mvvm/"/>
+    <id>http://yoursite.com/2020/04/08/mvvm/</id>
+    <published>2020-04-08T08:44:58.000Z</published>
+    <updated>2020-04-08T08:44:58.583Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>a</title>
